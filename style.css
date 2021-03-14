@@ -1,0 +1,10 @@
+html {
+    box-sizing: border-box; /*evita che il padding aggiunga spazio extra*/
+
+}
+
+body {
+    margin: 0;
+    min-height: 100vh; /*Mette la grandezza minima al 100% della pagina*/
+    
+}
